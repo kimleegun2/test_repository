@@ -1,0 +1,4 @@
+print("Hello, World")
+pass
+
+python 파이 이었던 것
